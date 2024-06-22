@@ -1,0 +1,13 @@
+ChocolateShake 150.00
+VanillaShake 150.00
+StrawberryShake 200.00
+MangoShake 150.00
+MosambiShake 150.00
+OreoShake 180.00
+KitKatShake 200.00
+PeanutButterShake 220.00
+CaramelShake 180.00
+AlmondShake 200.00
+Chai 50.00
+CadmiumPlus 120.00
+ColdDrink 100.00

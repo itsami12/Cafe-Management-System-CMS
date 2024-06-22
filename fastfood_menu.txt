@@ -1,0 +1,10 @@
+Burger 250.00
+Pizza 200.00
+Chips 150.00
+rollparatha 180.00
+FrenchFries 120.00
+ChickenNuggets 220.00
+CheeseBurger 280.00
+samosa 30.00
+roll 20.00
+afghanibbq 200.00

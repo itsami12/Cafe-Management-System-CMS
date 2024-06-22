@@ -1,0 +1,10 @@
+Biryani 200.00
+Kebab 200.00
+Curry 180.00
+Chaney 80.00
+AlooSabzi 100.00
+SeekhKebab 220.00
+Daal 120.00
+ChickenKarahi 800.00
+PalakPaneer 180.00
+MuttonKorma 350.00
